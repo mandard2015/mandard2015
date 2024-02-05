@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mandard2015
-- 👀 I’m interested in data analysis
-- 🌱 I’m currently learning the same
+- 👀
 - 📫 How to reach me mandard1512@gmail.com
 
 <!---
