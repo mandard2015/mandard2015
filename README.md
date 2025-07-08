@@ -1,5 +1,4 @@
 ## 👋 Hi, I’m Mandar Deshmukh
-- 📫 How to reach me mandard1512@gmail.com
 
 
 
